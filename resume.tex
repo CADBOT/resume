@@ -1,107 +1,83 @@
 % LaTeX file for resume 
 % This file uses the resume document class (res.cls)
-
-\documentclass[line]{res} 
-% the margin option causes section titles to appear to the left of body text 
-\textwidth=5.2in % increase textwidth to get smaller right margin
+\documentclass{res} 
 %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font 
-
+\setlength{\textheight}{9.5in} % increase text height to fit on 1-page 
 \begin{document} 
- 
-\name{Charles D. Crawford III} % the \\[12pt] adds a blank line after name
- 
-\address{2226 Elliott Ave Apt 113, Seattle, WA 98121 (928) 284-5522
-Charliec364@gmail.com } 
- 
-\begin{resume} 
- 
-\section{Experience}
- {\bf Software Development Engineer,} Amazon.com, Seattle, WA \hfill Sept 2013 - Present
- \begin{itemize} \itemsep -2pt  % reduce space between items
- \item Worked in Amazon Web Services Elastic Beanstalk. aws.amazon.com/elasticbeanstalk
- \item Created, tested, maintained, and deployed AWS services to thousands of Amazon customers
- \item Worked with all aspects of product: Development, QA, Testing, Deployment, Customer issues
- \item Individually responsible for major features such as Java 7 and Python 2.7 availability
- \item Worked in a Unix development environment with several technology stacks (Java,  PHP, Node.js, Python, and Ruby)
- \item Scrum/Agile Based Project Management Experience
- \end{itemize}
+\name{Charles D. Crawford III\\[12pt]}     % the \\[12pt] adds a blank
+\address{2226 Elliott Ave Apt 113, Seattle, WA 98121 (928) 284-5522 Charliec364@gmail.com }
 
- 
- 
-{\bf Research Programmer,} University of Arizona/Office of Navel Research, Tucson, AZ \hfill  Sept Sept 2012 - Sept 2013
-\begin{itemize} \itemsep -2pt %reduce space between items
-\item Researched, implemented new computer accounting 
-                 system 
-\item Customized existing software for inventory 
-                 management 
-\item Trained employees on both accounting and inventory 
-                 systems 
-\end{itemize}
 
-{\bf Computer Salesman,} Solutions Unlimited, Lake Grove, NY \hfill
-Summer 1983                
-                \begin{itemize} \itemsep -2pt
-                 \item  Demonstrated extensive range of software and 
-                 hardware 
-                
-                 \item Developed leads by offering seminars for specific 
-                 professions 
+\begin{resume}
 
-         \end{itemize}
-
-\section{Leadership   Activities} 
-               {\bf Co-founder,} Monarch Computer Products Inc., Freeport, NY    \hfill         1985 
-                \begin{itemize} \itemsep -2pt
-              \item Leader of marketing effort for V.R.S. (Video 
-                 Rental System), \\
-                  currently in test phase 
-                 
-                \item  Perform accounting duties 
-
-         \end{itemize}
-
-        {\bf President,} Delta Epsilon Pi Fraternity \hfill   1985 
-                \begin{itemize} \itemsep -2pt
-                 \item  Responsible for the overall performance of the 
-                 chapter 
-                
-                 \item Chair all house and alumni committee meetings 
-                
-                 \item Liaison to the national fraternity and the RPI 
-                 administration 
-         \end{itemize}
-
-                  {\bf  Director,}  Rensselaer Fraternity Managers 
-              Association     \hfill                                 1984 
-                 \begin{itemize} \itemsep -2pt
-
-               \item    Evaluated and approved purchases in excess of 
-                 {\$}1,000,000 yearly 
-                 
-               \item  Formulated bookkeeping checklists for use by all 
-                 fraternities 
-         \end{itemize}
-
-\section{Education} 
-B.S. in Computer Science Honors, University of Arizona, Tucson, AZ, May 2013 \\
-3.789 Magna Cum Laude. Honors Graduate
-Minors in Business, Music, and Math
-Thesis: Adjusting Poker AI based on Opponent Strategy
-
-% Tabulate Computer Skills; p{3in} defines paragraph 3 inches wide
-\section{Computer \\ Skills}
+\section{SKILLS}
    \begin{tabular}{l p{3in}}
-    \underline{Languages:} & COBOL, Pascal,C, APL, Basic \\
-
-     \underline{Software:} &  SPIRES, dBase III, Datastar database 
-                        systems, GPSS simulation, FCS-EPS financial 
-                        planning, SAS statistical analysis, 
-                        Lotus1-2-3, MPSX optimization modeling 
+     \underline{\bf Languages(proficient):} & C, C\#, Java, Python, Ruby, Scala, Fish Scripting, HTML, CSS \\
+     \underline{\bf Languages(familiar):} & Lua, Scheme, Javascript, MIPS32, Bash Scripting, x86 \\
+     \underline{\bf Platforms:} & Unix(Ubuntu, RHEL), Windows(XP, 7), Mac Os X \\
+     \underline{\bf Software, Tools, and Misc:} &  Vim, Eclipse, Visual Studio
+                        Git, Subversion, Team Foundation Server
+                        Fish, Bash, GDB, PDB, Valgrind, Make, 
+                        UML, Asperite, Fl Studio, Linux MultiMedia Studio, \LaTeX\
  \end{tabular}
+ 
+\section{EXPERIENCE}
+  {\bf Software Development Engineer,} Amazon.com, Seattle, WA\hfill Sept 2013 - Present
+  \begin{itemize} \itemsep -2pt  % reduce space between items
+    \item Worked in Amazon Web Services Elastic Beanstalk. aws.amazon.com/elasticbeanstalk
+    \item Created, tested, maintained, and deployed AWS services to thousands of Amazon customers
+    \item Worked with all aspects of product: Development, QA, Testing, Deployment, Customer issues
+    \item Individually responsible for major features such as Java 7 and Python 2.7 availability
+    \item Worked in a Unix development environment with several technology stacks (Java,  PHP, Node.js, Python, and Ruby)
+    \item Scrum/Agile Based Project Management Experience
+  \end{itemize}
 
-\end{resume} 
-\end{document} 
+  {\bf Research Programmer,} Office of Navel Research, Tucson, AZ\hfill Sept 2012 - Sept 2013
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item Worked on Netvue, a realtime visualization system netvue.cs.arizona.edu/index.html
+    \item Ported .NET networking protocols to the JVM with Scala
+    \item Implented quad tree data structures network visualization
+    \item Converted datastructure library from C to the new C\# and .NET based architecture
+  \end{itemize}
+
+  {\bf Software Engineer Intern,} Honeywell Aerospace, Tucson, AZ\hfill Aug 2012 - Sept 2012
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item Worked on a Make like tool to resolve and evaluate project dependencies.
+    \item Created a Python web-scraping tool that built an Excel sheet from the data.
+  \end{itemize}
+
+  {\bf Assistant Head Programmer,} Valiant Horizons, Riverside, CA\hfill Aug 2011 - Sept 2012
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item Free and open source MMO written in C\#
+    \item One of the head developers for the game and website
+    \item Trained incoming developers
+  \end{itemize}
+
+  {\bf Co-Founder,} RAN Consulting, Phoenix, AZ\hfill Aug 2011 - Aug 2013
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item Designed and maintained the company website
+    \item Formulated our services and fees
+    \item Marketed the company in the Phoenix and Tucson area
+    \item Hired and evaluated the abilities of incoming employees
+  \end{itemize}
+
+\section{EDUCATION} 
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item B.S. in Computer Science Honors, University of Arizona, Tucson, AZ, May 2013
+    \item 3.789 Magna Cum Laude. 
+    \item Minors in Business, Music, and Math
+    \item Thesis: Adjusting Poker AI based on Opponent Strategy
+  \end{itemize}
+
+\section{HONORS AND COMMUNITY INVOLVEMENT}
+  \begin{itemize} \itemsep -2pt %reduce space between items
+    \item Theta Tau Professional Engineering Fraternity
+    \item Omicron Delta Kappa National Leadership Honor Society
+    \item Xerocraft and CreatIT Volunteer Programming Instructor
+  \end{itemize}
 
 
+\end{resume}
 
+\end{document}
