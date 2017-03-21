@@ -58,8 +58,8 @@
         "First Instructor to teach the latest curriculum end to end",
         "Spearheaded Corporate Training offerings",
         "Instructed the inaugural course for the Portland campus",
-        "Training topics: JavaScript, Ruby, Data Structures, Algorithims, ExpressJs, React, Angular, Mongo, SQL, SASS, HTML, and CSS",
-        "Mentor and manage assistant instructors and teching assistants",
+        "Training topics: JavaScript, Ruby, Data Structures, Algorithms, ExpressJs, React, Angular, Mongo, SQL, SASS, HTML, and CSS",
+        "Mentor and manage assistant instructors and teaching assistants",
         "Developed Ruby on Rails based CMS",
         "Developed internal React based tool for charting net-promoter scores"
       ]
@@ -74,7 +74,7 @@
       "highlights": [
         "Primary author of the company blog blog.shippable.com",
         "Blog achieved over 3,000 unique hits per month",
-        "Increased site traffic by over 300 precent",
+        "Increased site traffic by over 300 percent",
         "Regularly created sample code of new features at github.com/Shippablesamples",
         "Finalize the design of public REST API",
         "Documented public REST API"
@@ -104,7 +104,7 @@
       "website": "http://netvue.cs.arizona.edu",
       "startDate": "2012-09-15",
       "endDate": "2013-09-18",
-      "summary": "The aim of NETVUE is to design an intuitive realtime visualization system using a simple unified metaphor—the geographic map—to readily visualize network activity of interest.",
+      "summary": "The aim of NETVUE is to design an intuitive real time visualization system using a simple unified metaphor—the geographic map—to readily visualize network activity of interest.",
       "highlights": [
         "Ported .NET networking system to the JVM via Scala",
         "Implemented Quad tree data structure for network visualizations",
@@ -132,7 +132,7 @@
       "summary": "IT and Website consulting Firm",
       "highlights": [
         "Designed and maintained the company website",
-        "Provide miscellanious IT support",
+        "Provide miscellaneous IT support",
         "Create static and PHP based websites"
       ]
     }
@@ -157,7 +157,7 @@
   ],
   "publications": [
     {
-      "name": "Docker Orchestration and Microservices",
+      "name": "Docker Orchestration and Micro-services",
       "publisher": "Pearson",
       "releaseDate": "2016",
       "website": "https://www.informit.com/store/docker-orchestration-and-microservices-livelessons-9780134398730",
