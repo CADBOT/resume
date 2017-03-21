@@ -35,9 +35,9 @@
     {
       "company": "Develop Intelligence",
       "position": "Enterprise Instructor",
-      "website": "http://developintelligence.com/",
+      "website": "http://developintelligence.com",
       "startDate": "2016-02-01",
-      "endDate": "2016-04-01",
+      "endDate": "current",
       "summary": "Train corporate clients on-site/online in software development/methodologies",
       "highlights": [
         "Instruct staff, principal, senior, and entry level engineers in modern tech stacks",
@@ -45,6 +45,95 @@
         "4.9/5 average course rating",
         "Training topics: JavaScript, Java, Python, React(Redux/GraphQL/Relay/React-Native), Angular, Docker, TDD, and BDD",
         "Clients: SalesForce, Intuit, Starbucks, IndianaUniversity, LibertyMutual"
+      ]
+    },
+    {
+      "company": "Code Fellows",
+      "position": "Lead Instructor/Developer",
+      "website": "http://codefellows.org",
+      "startDate": "2015-01-5",
+      "endDate": "current",
+      "summary": "Train students in full-stack JavaScript and Ruby. Develop internal CMS and Tools",
+      "highlights": [
+        "First Instructor to teach the latest curriculum end to end",
+        "Spearheaded Corporate Training offerings",
+        "Instructed the inaugural course for the Portland campus",
+        "Training topics: JavaScript, Ruby, Data Structures, Algorithims, ExpressJs, React, Angular, Mongo, SQL, SASS, HTML, and CSS",
+        "Mentor and manage assistant instructors and teching assistants",
+        "Developed Ruby on Rails based CMS",
+        "Developed internal React based tool for charting net-promoter scores"
+      ]
+    },
+    {
+      "company": "Shippable",
+      "position": "Technical Evangelist",
+      "website": "https://shippable.com",
+      "startDate": "2014-12-15",
+      "endDate": "2015-07-10",
+      "summary": "Evangelist, develop, and document the Shippable Continuous Integration platform",
+      "highlights": [
+        "Primary author of the company blog blog.shippable.com",
+        "Blog achieved over 3,000 unique hits per month",
+        "Increased site traffic by over 300 precent",
+        "Regularly created sample code of new features at github.com/Shippablesamples",
+        "Finalize the design of public REST API",
+        "Documented public REST API"
+      ]
+    },
+    {
+      "company": "Amazon.com",
+      "position": "Software Development Engineer",
+      "website": "https://aws.amazon.com",
+      "startDate": "2013-09-9",
+      "endDate": "2015-02-5",
+      "summary": "SDE for the Amazon Web Services Elastic Beanstalk team",
+      "highlights": [
+        "Created, tested, maintained, and deployed software to customers",
+        "Worked with all aspects of product: Development, QA, Testing, Deployment, Customer issues",
+        "Individually responsible for major features such as Java 7 Python 2.7, and Ruby 2.0 availability",
+        "Worked in a Unix development environment with several technology stacks (Java, PHP, Node.js, Python, and Ruby)",
+        "Sole Developer of the AWS Elastic Beanstalk Ruby 2 Puma container",
+        "Documented new product features and cross team work experience (worked full time with another team for one month)",
+        "Published writer for the AWS Application Management blog",
+        "Help with product direction for the Ruby/Rails container by researching community standards/development"
+      ]
+    },
+    {
+      "company": "Office of Navel Research",
+      "position": "Research Programmer",
+      "website": "http://netvue.cs.arizona.edu",
+      "startDate": "2012-09-15",
+      "endDate": "2013-09-18",
+      "summary": "The aim of NETVUE is to design an intuitive realtime visualization system using a simple unified metaphor—the geographic map—to readily visualize network activity of interest.",
+      "highlights": [
+        "Ported .NET networking system to the JVM via Scala",
+        "Implemented Quad tree data structure for network visualizations",
+        "Converted data structure library from C++ to C#"
+      ]
+    },
+    {
+      "company": "Honeywell Aerospace",
+      "position": "Software Engineer Intern",
+      "website": "https://aerospace.honeywell.com",
+      "startDate": "2012-05-20",
+      "endDate": "2012-09-10",
+      "summary": "Developed internal tools for the Aerospace division",
+      "highlights": [
+        "Created a build tool to resolve and evaluate project dependencies",
+        "Created a Python based web scraping tool to export metrics into Excel sheets"
+      ]
+    },
+    {
+      "company": "RAN Consulting",
+      "position": "Owner",
+      "website": "http://ranconsulting.com",
+      "startDate": "2009-05-20",
+      "endDate": "2013-08-10",
+      "summary": "IT and Website consulting Firm",
+      "highlights": [
+        "Designed and maintained the company website",
+        "Provide miscellanious IT support",
+        "Create static and PHP based websites"
       ]
     }
   ],
