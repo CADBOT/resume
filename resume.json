@@ -1,7 +1,8 @@
 {
   "basics": {
     "name": "Charles D. Crawford III",
-    "label": "Programmer",
+    "label": "Software Professional",
+    "about": "",
     "picture": "",
     "email": "charliec364@gmail.com",
     "phone": "(206) 856-3874",
@@ -14,14 +15,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Github",
+        "username": "CADBOT",
+        "url": "https://github.com/CADBOT/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "crawfordcharlie",
+        "url": "https://linkedin.com/in/crawfordcharlie/"
+      },
+      {
+        "network": "Twitter",
+        "username": "_cc_iii",
+        "url": "https://twitter.com/_cc_iii"
       }
     ]
   },
