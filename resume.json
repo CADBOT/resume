@@ -139,87 +139,83 @@
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "Hack The People",
+      "position": "Director of Marketing",
+      "website": "http://hackthepeople.org",
+      "summary": "Help foster minority mentor-mentee relationships in the tech community"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "University of Arizona",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "startDate": "2009",
+      "endDate": "2017",
+      "gpa": "3.8"
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Docker Orchestration and Microservices",
+      "publisher": "Pearson",
+      "releaseDate": "2016",
+      "website": "https://www.informit.com/store/docker-orchestration-and-microservices-livelessons-9780134398730",
+      "summary": "Docker Orchestration and Microservices LiveLessons provides developers with key insights and best practices for how to develop and orchestrate containerized microservices."
+    },
+    {
+      "name": " ReactJS Fundamentals and Advanced",
+      "publisher": "Pearson",
+      "releaseDate": "2017",
+      "website": "https://www.informit.com/store/reactjs-fundamentals-and-advanced-livelessons-video-9780134689173",
+      "summary": "From basic React, to state management with Redux, this series covers everything you need to know to develop modern web apps with React"
+    },
+    {
+      "name": "An Introduction to Deep Learning",
+      "publisher": "Algorithmia",
+      "releaseDate": "2016",
+      "website": "http://blog.algorithmia.com/introduction-to-deep-learning-2016"
+    },
+    {
+      "name": "Technical Blog Posts",
+      "publisher": "The New Stack",
+      "website": "https://thenewstack.io/author/charlie-crawford/",
+      "summary": "Technical blogging about modern JavaScript, Devops, and the Tech Community"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Programming Languages",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "JavaScript",
+        "Java",
+        "Ruby",
+        "Python"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Frameworks and Libraries",
+      "level": "Proficient",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "React",
+        "Redux",
+        "GraphQL",
+        "Docker",
+        "Express",
+        "Angular",
+        "AWS",
+        "Rails",
+        "Git"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
+      "name": "Methodologies ",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "TDD",
+        "BDD",
+        "Agile",
+        "Scrum"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
