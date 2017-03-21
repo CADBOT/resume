@@ -38,13 +38,13 @@
       "website": "http://developintelligence.com",
       "startDate": "2016-02-01",
       "endDate": "current",
-      "summary": "Train corporate clients on-site/online in software development/methodologies",
+      "summary": "Train corporate clients on-site/online in software development/methodologies.",
       "highlights": [
         "Instruct staff, principal, senior, and entry level engineers in modern tech stacks",
         "Scope courses during sales calls, and develop course content",
         "4.9/5 average course rating",
         "Training topics: JavaScript, Java, Python, React(Redux/GraphQL/Relay/React-Native), Angular, Docker, TDD, and BDD",
-        "Clients: SalesForce, Intuit, Starbucks, IndianaUniversity, LibertyMutual"
+        "Clients: SalesForce, Intuit, Starbucks, Indiana University, Liberty Mutual"
       ]
     },
     {
@@ -53,7 +53,7 @@
       "website": "http://codefellows.org",
       "startDate": "2015-01-5",
       "endDate": "current",
-      "summary": "Train students in full-stack JavaScript and Ruby. Develop internal CMS and Tools",
+      "summary": "Train students in full-stack JavaScript and Ruby. Develop internal CMS and Tools.",
       "highlights": [
         "First Instructor to teach the latest curriculum end to end",
         "Spearheaded Corporate Training offerings",
@@ -70,7 +70,7 @@
       "website": "https://shippable.com",
       "startDate": "2014-12-15",
       "endDate": "2015-07-10",
-      "summary": "Evangelist, develop, and document the Shippable Continuous Integration platform",
+      "summary": "Evangelist, develop, and document the Shippable Continuous Integration platform.",
       "highlights": [
         "Primary author of the company blog blog.shippable.com",
         "Blog achieved over 3,000 unique hits per month",
@@ -86,7 +86,7 @@
       "website": "https://aws.amazon.com",
       "startDate": "2013-09-9",
       "endDate": "2015-02-5",
-      "summary": "SDE for the Amazon Web Services Elastic Beanstalk team",
+      "summary": "SDE for the Amazon Web Services Elastic Beanstalk team.",
       "highlights": [
         "Created, tested, maintained, and deployed software to customers",
         "Worked with all aspects of product: Development, QA, Testing, Deployment, Customer issues",
@@ -117,7 +117,7 @@
       "website": "https://aerospace.honeywell.com",
       "startDate": "2012-05-20",
       "endDate": "2012-09-10",
-      "summary": "Developed internal tools for the Aerospace division",
+      "summary": "Developed internal tools for the Aerospace division.",
       "highlights": [
         "Created a build tool to resolve and evaluate project dependencies",
         "Created a Python based web scraping tool to export metrics into Excel sheets"
@@ -129,7 +129,7 @@
       "website": "http://ranconsulting.com",
       "startDate": "2009-05-20",
       "endDate": "2013-08-10",
-      "summary": "IT and Website consulting Firm",
+      "summary": "IT and Website consulting Firm.",
       "highlights": [
         "Designed and maintained the company website",
         "Provide miscellaneous IT support",
@@ -149,9 +149,7 @@
     {
       "institution": "University of Arizona",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2009",
-      "endDate": "2017",
+      "studyType": "Bachelors",
       "gpa": "3.8"
     }
   ],
