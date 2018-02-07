@@ -33,6 +33,22 @@
   },
   "work": [
     {
+      "company": "Galvanize",
+      "position": "Principle Full-Stack Developer / Lead Instructor",
+      "website": "http://developintelligence.com",
+      "startDate": "2017-02-01",
+      "endDate": "current",
+      "summary": "Train students in Full-stack JavaScript, manage and develop instructors/residents",
+      "highlights": [
+        "Taught first blended curriculum cohort",
+        "Help develop assistant instructors into full-fledged instructors",
+        "Redesigned JavaScript curriculum",
+        "Received high NPS for all classes",
+        "Acted as the campus developer evangelist",
+        "Assisted with development of internal tools"
+      ]
+    },
+    {
       "company": "Develop Intelligence",
       "position": "Enterprise Instructor",
       "website": "http://developintelligence.com",
@@ -49,10 +65,23 @@
     },
     {
       "company": "Code Fellows",
+      "position": "Director of Corporate Training",
+      "website": "http://codefellows.org",
+      "startDate": "2016-11-1",
+      "endDate": "2017-2-1",
+      "summary": "Develop corporate course offerings, build corporate relationships, and sell courses",
+      "highlights": [
+        "Developed initial course list offering",
+        "Curated list of client",
+        "Engaged in sales and technical scoping calls with clients"
+      ]
+    },
+    {
+      "company": "Code Fellows",
       "position": "Lead Instructor/Developer",
       "website": "http://codefellows.org",
       "startDate": "2015-01-5",
-      "endDate": "current",
+      "endDate": "2016-11-1",
       "summary": "Train students in full-stack JavaScript and Ruby. Develop internal CMS and Tools.",
       "highlights": [
         "First Instructor to teach the latest curriculum end to end",
@@ -149,7 +178,7 @@
     {
       "institution": "University of Arizona",
       "area": "Computer Science",
-      "studyType": "Bachelors",
+      "studyType": "Bachelors Magna Cum Laude 3.8 GPA",
       "gpa": "3.8"
     }
   ],
