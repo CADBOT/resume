@@ -1,0 +1,1 @@
+Delete about section manually from html
