@@ -36,7 +36,7 @@
       "company": "Galvanize",
       "position": "Principle Full-Stack Developer / Lead Instructor",
       "website": "http://developintelligence.com",
-      "startDate": "2017-02-01",
+      "startDate": "2017-02",
       "endDate": "current",
       "summary": "Train students in Full-stack JavaScript, manage and develop instructors/residents",
       "highlights": [
@@ -52,7 +52,7 @@
       "company": "Develop Intelligence",
       "position": "Enterprise Instructor",
       "website": "http://developintelligence.com",
-      "startDate": "2016-02-01",
+      "startDate": "2016-02",
       "endDate": "current",
       "summary": "Train corporate clients on-site/online in software development/methodologies.",
       "highlights": [
@@ -67,8 +67,8 @@
       "company": "Code Fellows",
       "position": "Director of Corporate Training",
       "website": "http://codefellows.org",
-      "startDate": "2016-11-1",
-      "endDate": "2017-2-1",
+      "startDate": "2016-11",
+      "endDate": "2017-3",
       "summary": "Develop corporate course offerings, build corporate relationships, and sell courses",
       "highlights": [
         "Developed initial course list offering",
@@ -80,8 +80,8 @@
       "company": "Code Fellows",
       "position": "Lead Instructor/Developer",
       "website": "http://codefellows.org",
-      "startDate": "2015-01-5",
-      "endDate": "2016-11-1",
+      "startDate": "2015-02",
+      "endDate": "2017-03",
       "summary": "Train students in full-stack JavaScript and Ruby. Develop internal CMS and Tools.",
       "highlights": [
         "First Instructor to teach the latest curriculum end to end",
@@ -97,8 +97,8 @@
       "company": "Shippable",
       "position": "Technical Evangelist",
       "website": "https://shippable.com",
-      "startDate": "2014-12-15",
-      "endDate": "2015-07-10",
+      "startDate": "2015-02",
+      "endDate": "2015-05",
       "summary": "Evangelist, develop, and document the Shippable Continuous Integration platform.",
       "highlights": [
         "Primary author of the company blog blog.shippable.com",
@@ -113,8 +113,8 @@
       "company": "Amazon.com",
       "position": "Software Development Engineer",
       "website": "https://aws.amazon.com",
-      "startDate": "2013-09-9",
-      "endDate": "2015-02-5",
+      "startDate": "2013-09",
+      "endDate": "2015-02",
       "summary": "SDE for the Amazon Web Services Elastic Beanstalk team.",
       "highlights": [
         "Created, tested, maintained, and deployed software to customers",
@@ -131,8 +131,8 @@
       "company": "Office of Navel Research",
       "position": "Research Programmer",
       "website": "http://netvue.cs.arizona.edu",
-      "startDate": "2012-09-15",
-      "endDate": "2013-09-18",
+      "startDate": "2012-09",
+      "endDate": "2013-09",
       "summary": "The aim of NETVUE is to design an intuitive real time visualization system using a simple unified metaphor—the geographic map—to readily visualize network activity of interest.",
       "highlights": [
         "Ported .NET networking system to the JVM via Scala",
@@ -144,8 +144,8 @@
       "company": "Honeywell Aerospace",
       "position": "Software Engineer Intern",
       "website": "https://aerospace.honeywell.com",
-      "startDate": "2012-05-20",
-      "endDate": "2012-09-10",
+      "startDate": "2012-05",
+      "endDate": "2012-08",
       "summary": "Developed internal tools for the Aerospace division.",
       "highlights": [
         "Created a build tool to resolve and evaluate project dependencies",
@@ -156,8 +156,8 @@
       "company": "RAN Consulting",
       "position": "Owner",
       "website": "http://ranconsulting.com",
-      "startDate": "2009-05-20",
-      "endDate": "2013-08-10",
+      "startDate": "2009-05",
+      "endDate": "2013-08",
       "summary": "IT and Website consulting Firm.",
       "highlights": [
         "Designed and maintained the company website",
@@ -178,7 +178,6 @@
     {
       "institution": "University of Arizona",
       "area": "Computer Science",
-      "studyType": "Bachelors Magna Cum Laude 3.8 GPA",
       "gpa": "3.8"
     }
   ],
